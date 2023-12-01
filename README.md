@@ -26,7 +26,7 @@ Food Truck Finder is a Django project designed to help users discover nearby foo
    cd problem_food_truck
 2. Ensure MySQL is installed and running.
 3. Configure Django to use MySQL:
-    Update the DATABASES setting in settings.py to use MySQL as the database backend.
+    - Update the DATABASES setting in settings.py to use MySQL as the database backend.
 4. Migrate the database.
 5. Populate the MySQL database with food truck data:
     Use the provided sql file (data_foodtruck.sql) to import data into the MySQL database.
