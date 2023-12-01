@@ -22,8 +22,8 @@ Food Truck Finder is a Django project designed to help users discover nearby foo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/food-truck-finder.git
-   cd food-truck-finder
+   git clone https://github.com/Vishwassolanki/problem_foodtruck.git
+   cd problem_food_truck
 2. Ensure MySQL is installed and running.
 3. Configure Django to use MySQL:
     Update the DATABASES setting in settings.py to use MySQL as the database backend.
